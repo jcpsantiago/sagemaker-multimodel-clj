@@ -1,0 +1,21 @@
+08:11:30.871 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6841ms to org.eclipse.jetty.util.log.Slf4jLog
+08:19:55.712 [nREPL-session-6350ca01-0d87-43ca-88ae-2354d4cd20db] INFO  org.eclipse.jetty.server.Server  - jetty-9.4.18.v20190429; built: 2019-04-29T20:42:08.989Z; git: e1bc35120a6617ee3df052294e433f3a25ce7097; jvm 11.0.8+10
+08:19:55.750 [nREPL-session-6350ca01-0d87-43ca-88ae-2354d4cd20db] INFO  o.e.j.server.handler.ContextHandler  - Started o.e.j.s.ServletContextHandler@773cdd43{/,null,AVAILABLE}
+08:19:55.784 [nREPL-session-6350ca01-0d87-43ca-88ae-2354d4cd20db] INFO  o.e.jetty.server.AbstractConnector  - Started ServerConnector@36aa7f02{HTTP/1.1,[http/1.1, h2c]}{localhost:8080}
+08:19:55.784 [nREPL-session-6350ca01-0d87-43ca-88ae-2354d4cd20db] INFO  org.eclipse.jetty.server.Server  - Started @511758ms
+08:20:05.687 [qtp547207884-35] INFO  io.pedestal.http  - {:msg "GET /", :line 80}
+08:20:05.691 [qtp547207884-35] INFO  io.pedestal.http.cors  - {:msg "cors request processing", :origin "", :allowed true, :line 84}
+08:20:05.699 [qtp547207884-35] INFO  io.pedestal.http.cors  - {:msg "cors response processing", :cors-headers {"Access-Control-Allow-Origin" "", "Access-Control-Allow-Credentials" "true", "Access-Control-Expose-Headers" "Strict-Transport-Security, X-Frame-Options, X-Content-Type-Options, X-Xss-Protection, X-Download-Options, X-Permitted-Cross-Domain-Policies, Content-Security-Policy, Content-Type"}, :line 111}
+08:20:05.884 [qtp547207884-30] INFO  io.pedestal.http  - {:msg "GET /favicon.ico", :line 80}
+08:20:05.885 [qtp547207884-30] INFO  io.pedestal.http.cors  - {:msg "cors request processing", :origin "", :allowed true, :line 84}
+08:20:05.887 [qtp547207884-30] INFO  io.pedestal.http.cors  - {:msg "cors response processing", :cors-headers {"Access-Control-Allow-Origin" "", "Access-Control-Allow-Credentials" "true", "Access-Control-Expose-Headers" ""}, :line 111}
+18:08:27.110 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6672ms to org.eclipse.jetty.util.log.Slf4jLog
+18:49:01.593 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6047ms to org.eclipse.jetty.util.log.Slf4jLog
+18:52:25.920 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @5843ms to org.eclipse.jetty.util.log.Slf4jLog
+20:08:22.309 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6179ms to org.eclipse.jetty.util.log.Slf4jLog
+20:16:46.377 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6535ms to org.eclipse.jetty.util.log.Slf4jLog
+20:19:24.479 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6376ms to org.eclipse.jetty.util.log.Slf4jLog
+20:33:48.669 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6429ms to org.eclipse.jetty.util.log.Slf4jLog
+21:01:46.415 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6536ms to org.eclipse.jetty.util.log.Slf4jLog
+21:21:21.081 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @5839ms to org.eclipse.jetty.util.log.Slf4jLog
+22:44:13.825 [main] INFO  org.eclipse.jetty.util.log  - Logging initialized @6094ms to org.eclipse.jetty.util.log.Slf4jLog
